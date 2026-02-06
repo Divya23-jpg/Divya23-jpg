@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Divya Kumawat</h1>
 <h3 align="center">Software Engineering Student | Aspiring Cybersecurity Expert | Educator</h3>
-<!-- <img align="right" alt="Coding" width=400 src="https://tse1.explicit.bing.net/th/id/OIP.v-fD7Gm_N59ipd5qNKzcXQHaFj?rs=1&pid=ImgDetMain&o=7&rm=3"> -->
+<img align="right" alt="Coding" width=400 src="https://tse1.explicit.bing.net/th/id/OIP.v-fD7Gm_N59ipd5qNKzcXQHaFj?rs=1&pid=ImgDetMain&o=7&rm=3">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divya23-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="divya23-jpg" /> </p>
 
